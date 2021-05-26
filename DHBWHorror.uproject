@@ -16,7 +16,7 @@
 		},
 		{
 			"Name": "AutoNodeArranger",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/565cf724479c4c2f9138b6428cfd74b1"
 		}
 	]
